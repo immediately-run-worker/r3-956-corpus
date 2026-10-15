@@ -1,0 +1,10 @@
+{
+  "name": "immediately-run-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@immediately-run/sdk": "0.90.1",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
