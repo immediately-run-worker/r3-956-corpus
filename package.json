@@ -2,6 +2,7 @@
   "name": "immediately-run-app",
   "version": "1.0.0",
   "private": true,
+  "main": "src/App.tsx",
   "dependencies": {
     "@immediately-run/sdk": "0.90.1",
     "react": "^19.2.5",
